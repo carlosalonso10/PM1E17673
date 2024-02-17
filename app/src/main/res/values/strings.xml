@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">PM1E17673</string>
+    <string name="btnVer">Ver Imagen</string>
+    <string name="btnCompartir">Compartir Contacto</string>
+    <string name="btnEliminar">Eliminar Contacto</string>
+    <string name="btnActualizar">Actualizar Contacto</string>
+    <string name="btnLlamar">Llamar Contacto</string>
+    <string name="btnAtras">Atras</string>
+    <string name="txtBuscar">Buscar</string>
+</resources>
